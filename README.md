@@ -65,6 +65,6 @@ It returns quote data in JSON format.
 ```text
 quote-generator/
 │
-├── quote_generator.html
+├── index.html
 ├── dancer-woman.json
 └── README.md
