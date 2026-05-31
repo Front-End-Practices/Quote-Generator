@@ -32,9 +32,7 @@ It is designed to be lightweight, responsive, and easy to understand.
 
 ## Live Preview
 
-If you have a live demo, add it here:
-
-`[Live Demo](#)`
+[Live Demo]: ( https://front-end-practices.github.io/Quote-Generator/ )
 
 ## Tech Stack
 
